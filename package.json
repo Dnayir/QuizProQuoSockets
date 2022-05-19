@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npm --prefix ./server install",
-    "start-server": "npm --prefix ./server run start"
+    "postinstall": "npm --prefix ./socketio install",
+    "start-server": "npm --prefix ./socketio run start"
   },
   "repository": {
     "type": "git",
